@@ -72,7 +72,7 @@ I visualized the model architecture using `plot_model(...)` from `tensorflow.ker
 
 The generated architecture image is included in this repository:
 
-![Model Architecture](model_architecture.png)
+<img src="model_architecture.png" alt="Model Architecture" width="400">
 
 This diagram provides a visual summary of the model structure created in the notebook.
 
