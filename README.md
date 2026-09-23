@@ -112,4 +112,3 @@ This project covers the full workflow of working with custom layers in Keras:
 - updating the model with dropout for regularization
 
 Overall, this notebook is a hands-on exercise for on how Keras layers work internally and how custom layers can be combined with the standard TensorFlow/Keras pipeline.
-```
