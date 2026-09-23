@@ -95,9 +95,9 @@ This version demonstrates how dropout can be inserted into a model containing cu
 
 ## Files
 
-- `Keras-customLayers.ipynb` — main notebook containing the implementation
-- `model_architecture.png` — saved architecture visualization
-- `README.md` — project description
+- `Keras-customLayers.ipynb`, main notebook containing the implementation
+- `model_architecture.png`, saved architecture visualization
+- `README.md`, project description
 
 ---
 
